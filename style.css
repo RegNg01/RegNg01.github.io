@@ -96,6 +96,8 @@ header h2 {
  
  
 footer {
+  display:flex;
+  height:30px;
    margin-top:30px;
     left: 0;
     bottom: 0;
